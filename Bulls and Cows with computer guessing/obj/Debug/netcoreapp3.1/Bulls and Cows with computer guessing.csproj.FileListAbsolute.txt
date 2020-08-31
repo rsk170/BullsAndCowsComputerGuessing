@@ -1,0 +1,13 @@
+C:\Users\rkisleva\source\repos\Bulls and Cows with computer guessing\Bulls and Cows with computer guessing\bin\Debug\netcoreapp3.1\Bulls and Cows with computer guessing.exe
+C:\Users\rkisleva\source\repos\Bulls and Cows with computer guessing\Bulls and Cows with computer guessing\bin\Debug\netcoreapp3.1\Bulls and Cows with computer guessing.deps.json
+C:\Users\rkisleva\source\repos\Bulls and Cows with computer guessing\Bulls and Cows with computer guessing\bin\Debug\netcoreapp3.1\Bulls and Cows with computer guessing.runtimeconfig.json
+C:\Users\rkisleva\source\repos\Bulls and Cows with computer guessing\Bulls and Cows with computer guessing\bin\Debug\netcoreapp3.1\Bulls and Cows with computer guessing.runtimeconfig.dev.json
+C:\Users\rkisleva\source\repos\Bulls and Cows with computer guessing\Bulls and Cows with computer guessing\bin\Debug\netcoreapp3.1\Bulls and Cows with computer guessing.dll
+C:\Users\rkisleva\source\repos\Bulls and Cows with computer guessing\Bulls and Cows with computer guessing\bin\Debug\netcoreapp3.1\Bulls and Cows with computer guessing.pdb
+C:\Users\rkisleva\source\repos\Bulls and Cows with computer guessing\Bulls and Cows with computer guessing\obj\Debug\netcoreapp3.1\Bulls and Cows with computer guessing.csprojAssemblyReference.cache
+C:\Users\rkisleva\source\repos\Bulls and Cows with computer guessing\Bulls and Cows with computer guessing\obj\Debug\netcoreapp3.1\Bulls and Cows with computer guessing.AssemblyInfoInputs.cache
+C:\Users\rkisleva\source\repos\Bulls and Cows with computer guessing\Bulls and Cows with computer guessing\obj\Debug\netcoreapp3.1\Bulls and Cows with computer guessing.AssemblyInfo.cs
+C:\Users\rkisleva\source\repos\Bulls and Cows with computer guessing\Bulls and Cows with computer guessing\obj\Debug\netcoreapp3.1\Bulls and Cows with computer guessing.csproj.CoreCompileInputs.cache
+C:\Users\rkisleva\source\repos\Bulls and Cows with computer guessing\Bulls and Cows with computer guessing\obj\Debug\netcoreapp3.1\Bulls and Cows with computer guessing.dll
+C:\Users\rkisleva\source\repos\Bulls and Cows with computer guessing\Bulls and Cows with computer guessing\obj\Debug\netcoreapp3.1\Bulls and Cows with computer guessing.pdb
+C:\Users\rkisleva\source\repos\Bulls and Cows with computer guessing\Bulls and Cows with computer guessing\obj\Debug\netcoreapp3.1\Bulls and Cows with computer guessing.genruntimeconfig.cache

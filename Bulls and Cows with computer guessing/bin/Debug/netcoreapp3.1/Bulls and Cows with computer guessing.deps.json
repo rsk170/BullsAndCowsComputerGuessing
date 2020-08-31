@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Bulls and Cows with computer guessing/1.0.0": {
+        "runtime": {
+          "Bulls and Cows with computer guessing.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bulls and Cows with computer guessing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
